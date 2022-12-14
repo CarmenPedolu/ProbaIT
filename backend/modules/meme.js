@@ -6,6 +6,10 @@ const memeSchema = new mongoose.Schema({
         maxLength: 2500,
         required: true
     }
+    // userId: {
+    //     type: String,
+    //     required:true
+    // }
 });
 
 const Meme = mongoose.model('Meme', memeSchema);
