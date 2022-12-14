@@ -1,0 +1,33 @@
+.modaltest{
+    margin-left: 10%;
+    margin-right: auto;
+    text-align: center;
+    position: absolute;
+    top: 50%;
+
+}
+
+.btnColorMov {
+    background-color: #6F3096;
+    border: none;
+    color: #f2eff5 !important;
+}
+
+.Title {
+    font-family: 'Merriweather';
+    text-align: center;
+    font-weight: bold;
+    color: #6F3096;
+    font-size: 200%;
+}
+
+.textUserParola {
+    color: #252F65;
+    font-family: 'Merriweather';
+    font-weight: bold;
+    line-height: 100%;
+    text-align: left !important;
+    font-size: 110%;
+    margin-bottom: 20%;
+    margin-right: 10%;
+}
